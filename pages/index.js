@@ -14,7 +14,7 @@ import backend from "../public/backend.png";
 import tool from "../public/tool.png";
 import Image from "next/image";
 import web1 from "../public/web1.png";
-import deved from "../public/Dev-ed-wave.png";
+// import deved from "../public/Dev-ed-wave.png";
 import web2 from "../public/web2.png";
 import web3 from "../public/web3.png";
 import web4 from "../public/web4.png";
@@ -86,9 +86,7 @@ export default function Home() {
                 <AiFillTwitterCircle />{" "}
               </a>
             </div>
-            <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
-            </div>
+           
             <h5 className="text-3xl py-1 dark:text-white ">A propos de moi</h5>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Étudiant de 21 ans en deuxième année de développement web à
