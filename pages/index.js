@@ -64,11 +64,11 @@ export default function Home() {
               Salut, c'est Mouhamed Mboup
             </h3>
             <h4 className="text-1xl py-1 dark:text-white md:text-3xl">
-              Étudiant en développement web
+              FullStack Developer
             </h4>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Je suis actuellement à la recherche d'une alternance pour ma
-              deuxième année
+              This is my personal site, where you will find all the information
+              about me.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://github.com/metazo" target="blank">
@@ -86,21 +86,20 @@ export default function Home() {
                 <AiFillTwitterCircle />{" "}
               </a>
             </div>
-           
+
             <h5 className="text-3xl py-1 dark:text-white ">A propos de moi</h5>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Étudiant de 21 ans en deuxième année de développement web à
-              Epitech en France. Je veux être le plus créatif possible en
-              utilisant mon imagination et mes capacités intellectuelles dans
-              mon travail. Mon but est de créer des application web et mobile et
-              de les rendre aussi beau et interactif que possible.
+              I am a 21 years old FullStack developer from France. I want to be
+              as creative as possible by using my imagination and my
+              intellectual abilities in my work. My goal is to make a site as
+              beautiful and attractive as possible.
             </p>
           </div>
         </section>
         <section>
           <div>
             <h3 className="text-3xl py-1 text-teal-600 font-medium dark:text-teal-400 ">
-              Compétences
+              Skills
             </h3>
           </div>
           <div className="lg:flex gap-10">
@@ -155,7 +154,7 @@ export default function Home() {
               Portofolio
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Ci dessous vous trouverez quelques projets que j'ai réalisés ✨
+              Below you will find some projects that I made ✨
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
