@@ -113,6 +113,7 @@ export default function Home() {
               {/* <h4 className="py-4 text-teal-600">Design Tools I Use</h4> */}
               <p className="text-gray-800 py-1">HTML / CSS</p>
               <p className="text-gray-800 py-1">JavaScript</p>
+              <p className="text-gray-800 py-1">Angular</p>
               <p className="text-gray-800 py-1">React JS</p>
               <p className="text-gray-800 py-1">Sass</p>
               <p className="text-gray-800 py-1">Next JS</p>
