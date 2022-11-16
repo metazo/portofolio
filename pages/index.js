@@ -61,7 +61,7 @@ export default function Home() {
           </nav>
           <div className="text-center p-8 py-10">
             <h3 className="text-1xl py-1 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
-              Salut, c'est Mouhamed Mboup
+              Hey, it's Mouhamed Mboup
             </h3>
             <h4 className="text-1xl py-1 dark:text-white md:text-3xl">
               FullStack Developer
