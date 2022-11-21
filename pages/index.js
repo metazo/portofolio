@@ -87,7 +87,7 @@ export default function Home() {
               </a>
             </div>
 
-            <h5 className="text-3xl py-1 dark:text-white ">A propos de moi</h5>
+            <h5 className="text-3xl py-1 dark:text-white ">About me</h5>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               I am a 21 years old FullStack developer from France. I want to be
               as creative as possible by using my imagination and my
